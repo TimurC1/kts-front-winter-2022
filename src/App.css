@@ -1,0 +1,13 @@
+body{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+svg {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.App{
+    overflow: hidden;
+}
